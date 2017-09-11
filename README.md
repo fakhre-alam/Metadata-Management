@@ -1,5 +1,5 @@
 # Metadata-Management
-##Seminar held By Cdac and Manipal
+# Seminar held By Cdac Pune and Manipal University
 
 Metadata provides information on your data and resources. The quality of the metadata directly affects the discoverability and reuse of your the resources. 
 
